@@ -222,7 +222,7 @@
     "@babel/preset-env": "^7.7.4",
     "@babel/preset-react": "^7.7.4",
     "@bootstrap-styled/documentation": "^2.0.0",
-    "@rollup-umd/documentation": "^2.0.11",
+    "@rollup-umd/documentation": "^2.1.0",
     "@rollup-umd/ncu": "^1.0.9",
     "@rollup-umd/rollup": "^1.1.0",
     "@semantic-release/changelog": "^3.0.6",
