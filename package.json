@@ -220,7 +220,7 @@
     "@babel/plugin-transform-react-constant-elements": "^7.9.0",
     "@babel/plugin-transform-react-inline-elements": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
-    "@babel/preset-react": "^7.7.4",
+    "@babel/preset-react": "^7.9.0",
     "@bootstrap-styled/documentation": "^2.0.0",
     "@rollup-umd/documentation": "^2.0.11",
     "@rollup-umd/ncu": "^1.0.9",
